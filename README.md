@@ -1,3 +1,3 @@
 # apple-sauce
  Demo repo for local git
-Uploading to gitHub later
+Uploaded to gitHub
